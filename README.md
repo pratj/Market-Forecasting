@@ -1,1 +1,1 @@
-# Stock-MArket-Forecasting
+# Stock forecast of Apple using LSTM
